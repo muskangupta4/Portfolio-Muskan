@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Experience
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'It includes major details and marks<br />from 10th standard till now'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---

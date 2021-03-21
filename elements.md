@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Internships & Certifications
 nav-menu: true
 ---
 
