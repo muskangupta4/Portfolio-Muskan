@@ -11,7 +11,7 @@ city: Indore
 state: MP
 zip_code: 462003
 country: India
-phone: (716) 555-5555
+#phone: (716) 555-5555
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -20,6 +20,9 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
+youtube_url: https://www.youtube.com/channel/UCohNr_w9L9mYVDSWBPSdQYQ/featured
+medium_url: https://guptamuskan287.medium.com/
+sololearn_url: https://www.sololearn.com/profile/15457547
 github_url: https://github.com/muskangupta4
 gitlab_url: https://github.com/muskangupta4
 googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
