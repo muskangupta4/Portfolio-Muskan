@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Certifications
+description: 'All the courses and certification programs completed by me are descibed here'
 nav-menu: true
 ---
 
@@ -11,8 +12,92 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Certifications & Courses</h1>
 		</header>
+
+<section id="two" class="spotlights">
+	<section>
+		<a href="generic.html" class="image">
+		<img src="assets/images/hackerrank.png" alt="" data-position="center center" />
+		<!--	<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />-->
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Volunteer at FDC</h3>
+				</header>
+				<p>I am a Volunteer at Facebook Developer Circle, Indore. It is developer community which acts as a bridge between like minded people and help them to build relevent connections. Apart from that they conducts several workshops and webinars to create awareness about different kinds of technologies to youngsters</p>
+				<ul class="actions">
+					<li><a href="https://www.facebook.com/groups/DevCIndore/" class="button">More about FDC</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Campus Ambassador</h3>
+				</header>
+				<p>I am a Campus Ambassador at Coding Ninjas. Coding Ninjas is a technical organisation which provides online programming courses for student and professionals. Apart from courses and project they conduct many amazing workshops and hackathons for college students. As a Campus Ambassador my main role was to encourage students to take part in those events.</p>
+				<ul class="actions">
+					<li><a href="https://www.linkedin.com/posts/muskan-gupta-336292174_glad-to-be-a-part-of-coding-ninjas-family-activity-6681530322661842944--sSx" class="button">My Offer Letter</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+		<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>NCC</h3>
+				</header>
+				<p>I am a cadet at Nation Cadet corps (NCC) India. Apart from academics I was always intersed in army life, their disipline, their unity made me to join NCC in my college. I learned a lot in those three years. We got to attend severa drill practise sessions in the early morning, we participated in many events conducted by 9, M.P. Battalion. The most significant part being attending the CATC Camp and learning Riffle shooting with a real 0.2 mm rifle.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Campus Ambassador</h3>
+				</header>
+				<p>I am a Campus Ambassador at Coding Ninjas. Coding Ninjas is a technical organisation which provides online programming courses for student and professionals. Apart from courses and project they conduct many amazing workshops and hackathons for college students. As a Campus Ambassador my main role was to encourage students to take part in those events.</p>
+				<ul class="actions">
+					<li><a href="https://www.linkedin.com/posts/muskan-gupta-336292174_glad-to-be-a-part-of-coding-ninjas-family-activity-6681530322661842944--sSx" class="button">My Offer Letter</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>NCC</h3>
+				</header>
+				<p>I am a cadet at Nation Cadet corps (NCC) India. Apart from academics I was always intersed in army life, their disipline, their unity made me to join NCC in my college. I learned a lot in those three years. We got to attend severa drill practise sessions in the early morning, we participated in many events conducted by 9, M.P. Battalion. The most significant part being attending the CATC Camp and learning Riffle shooting with a real 0.2 mm rifle.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+</section>
 
 <!-- Content -->
 <h2 id="content">Sample Content</h2>
