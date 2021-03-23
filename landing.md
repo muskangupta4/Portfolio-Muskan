@@ -2,7 +2,7 @@
 title: Internship & Experience
 layout: landing
 description: 'It includes major details and marks<br />from 10th standard till now'
-image: assets/images/pic07.jpg
+image: assets/images/school.jpg
 nav-menu: true
 ---
 
