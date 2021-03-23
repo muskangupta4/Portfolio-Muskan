@@ -24,13 +24,13 @@ youtube_url: https://www.youtube.com/channel/UCohNr_w9L9mYVDSWBPSdQYQ/featured
 medium_url: https://guptamuskan287.medium.com/
 sololearn_url: https://www.sololearn.com/profile/15457547
 github_url: https://github.com/muskangupta4
-gitlab_url: https://github.com/muskangupta4
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
+#gitlab_url: https://github.com/muskangupta4
+#googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+#instagram_url: https://instagram.com
 linkedin_url: https://www.linkedin.com/in/muskan-gupta-336292174/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+#twitter_url: https://twitter.com/andrewbanchich
 
 # build settings
 markdown: kramdown
