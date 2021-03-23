@@ -20,8 +20,15 @@ nav-menu: true
 				</ul>
 
 
+
 <h2>HackerRank</h2>
 <img src="assets/images/Codeforces.png" height="60%" width="80%">
 <ul class="actions">
 					<li><a href="https://codeforces.com/profile/guptamuskan287" target="_blank" class="button">My CODEFORCES Profile</a></li>
 				</ul>
+<h2>HackerEarth</h2>
+<!--<img src="assets/images/Codeforces.png" height="60%" width="80%">-->
+<ul class="actions">
+					<li><a href="https://www.hackerearth.com/@muskan410" target="_blank" class="button">My HACKEREARTH Profile</a></li>
+				</ul>
+
