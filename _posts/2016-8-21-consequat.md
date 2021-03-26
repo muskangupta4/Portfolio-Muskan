@@ -2,7 +2,7 @@
 layout: post
 title: Project 5
 description: Flappy Bird
-image: assets/images/pic05.jpg
+#image: assets/images/pic05.jpg
 ---
 
 Flappy Bird
