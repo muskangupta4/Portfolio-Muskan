@@ -65,9 +65,9 @@ nav-menu: true
 					<h3>NCC</h3>
 				</header>
 				<p>I am a cadet at Nation Cadet corps (NCC) India. Apart from academics I was always intersed in army life, their disipline, their unity made me to join NCC in my college. I learned a lot in those three years. We got to attend severa drill practise sessions in the early morning, we participated in many events conducted by 9, M.P. Battalion. The most significant part being attending the CATC Camp and learning Riffle shooting with a real 0.2 mm rifle.</p>
-				<ul class="actions">
+				<!--<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				</ul>-->
 			</div>
 		</div>
 	</section>
@@ -80,9 +80,9 @@ nav-menu: true
 			<h2>10th and 12th</h2>
 		</header>
 		<p>I scored 9 CGPA in my 10th standard. I did my schooling from Carmel Convent Senior Secondary School, B.H.E.L. Bhopal. After that I took Physics, Chemistry, Maths as my major subjects in 11th standard and got 82% in my 12th boards with 95 marks in Mathematics, my favorite subject. I completed 11th and 12th from Gyan Ganga International Academy, Bhopal</p>
-		<ul class="actions">
+		<!--<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
+		</ul>-->
 	</div>
 </section>
 
