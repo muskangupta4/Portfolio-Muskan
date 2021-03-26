@@ -114,6 +114,23 @@ nav-menu: true
 		</div>
 	</section>
 </section>
+<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Sololearn Certificates</h3>
+				</header>
+				<p>This link will lead to my Sololearn profile. I did different kinds of courses on Sololearn platform</p>
+				<ul class="actions">
+					<li><a href="https://www.sololearn.com/profile/15457547" class="button">View</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	</br>
 <p>P.S. - To show credibility of these certificates. I linked some of my certificate to my Linkden post</p>
 
 <!-- Content -->
